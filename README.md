@@ -1,2 +1,3 @@
-# Python-reverse-binary-from-files
+# Binary reversor
+
 Reverse binary from files given
